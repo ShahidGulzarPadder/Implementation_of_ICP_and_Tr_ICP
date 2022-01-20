@@ -1,0 +1,2 @@
+# 3DSSF_Assignment_3
+Implement Tr-ICP, a robust approach to Iterated Closest Point (ICP) point cloud registration. Task: ICP, Tr-ICP Choose an appropriate mesh/point cloud format (.XYZ, .PLY, etc.) and input two point clouds. (examples here and here - notice the limited overlap between the two clouds) (If the input point clouds are well aligned, rotate and displace one of them, randomly.) Perform Nearest-neighbor search using kd-trees! (you may use nanoflann or any other library for the task) Implement ICP Implement Tr-ICP
